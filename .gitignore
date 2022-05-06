@@ -1,4 +1,5 @@
 .vscode
 result/
-*.project*
+cabal.project*
 dist-newstyle
+result
